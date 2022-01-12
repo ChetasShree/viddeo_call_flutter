@@ -5,7 +5,7 @@
 
 ### This is how it looks 💫
 ### App icon 👁️
-<img src="https://user-images.githubusercontent.com/75165587/149152399-51049560-41a2-4278-b916-9928aad921d3.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/75165587/149152399-51049560-41a2-4278-b916-9928aad921d3.jpg" width="100">
 
 ### The App 🤜🔥🤛
 ![Untitled-1](https://user-images.githubusercontent.com/75165587/149155292-84ddc0c2-35b2-4aa0-8192-a834a7357392.png)
